@@ -1,4 +1,4 @@
-## Interviu project
+## Interview project
 
 ## To install
 
